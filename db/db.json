@@ -1,12 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
-
-
-
-
-[{"title":"Hello","text":"hello","id":"cf0aaede-ac0f-430a-befe-82859d940126"},
-{"title":"insomnia","text":"use this to test our your API requests","id":"0bea0c87-23b5-43de-9bb2-4198247e314d"},{"title":"MySQL create database","text":"create a database in MySQL to use later","id":"f172145c-1943-4df3-a656-700217b47fff"}]
+[{"title":"Test Title","text":"Test text"}]
