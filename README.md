@@ -23,7 +23,10 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Note Taker Screenshoot GIF
 
-ezgif.com-gif-maker (2).gif
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/110719370/194754845-76e24cf2-e1bc-4e95-aaab-8f5db66ba74a.gif)
+
+
 
 ## Note Taker Github Repository URL:
 
